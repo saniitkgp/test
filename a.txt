@@ -1,3 +1,7 @@
 sdafafasd
 this is the changes.
+<<<<<<< HEAD
 this is the third changes.
+=======
+this is the second changes. 
+>>>>>>> 8fae7aefb636d4c286f3ebb3a7fe7382f3514af7
